@@ -1,7 +1,7 @@
 # my-pay-keyboard
 
 > A Vue.js project
-
+这是我的自己写的第一个vue插件
 ## Build Setup
 
 ``` bash
